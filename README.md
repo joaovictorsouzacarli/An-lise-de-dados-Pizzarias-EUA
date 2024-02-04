@@ -1,2 +1,2 @@
-# Análise de dados Pizzarias EUA
+# Análise de dados de Pizzarias dos EUA
  
